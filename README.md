@@ -1,2 +1,2 @@
 # hackathon-eagles
-AIハッカソンで作成した作品
+AIハッカソンの作品
